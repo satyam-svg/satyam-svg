@@ -1,4 +1,4 @@
-<img src="https://github.com/satyam-svg/satyam-svg/blob/main/Github%20banner.png" width="2000rem" alt="Github Banner">
+<img src="https://github.com/satyam-svg/satyam-svg/blob/main/satyam.png" width="2000rem" alt="Github Banner">
 <h1 align="center">Hi 👋, I'm Praveen Maurya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
