@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-svg&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-svg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/praveenmau61709" target="blank"><img src="https://img.shields.io/twitter/follow/praveenmau61709?logo=twitter&style=for-the-badge" alt="praveenmau61709" /></a> </p>
+<p align="left"> <a href="https://x.com/PRAVEENMAU81709?t=tyucGpzQMOroaPpZPU54uQ&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/praveenmau61709?logo=twitter&style=for-the-badge" alt="praveenmau61709" /></a> </p>
 
 - 🌱 I’m currently learning **Three.js**
 
