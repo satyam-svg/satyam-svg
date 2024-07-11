@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/praveenmau61709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveenmau61709" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen" height="30" width="40" /></a>
-<a href="https://instagram.com/satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam" height="30" width="40" /></a>
+<a href="https://x.com/PRAVEENMAU81709?t=tyucGpzQMOroaPpZPU54uQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveenmau61709" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praveen-maurya-5aa355214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maurya___satyam123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ontop_star" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ontop_star" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aim_7star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aim_7star" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ontop_star_top" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ontop_star_top" height="30" width="40" /></a>
