@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **satyammaurya9620@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/14o3YJ](https://pdf.ac/14o3YJ)
+- 📄 Know about my experiences [https://pdf.ac/14o3YJ](https://drive.google.com/file/d/1KVMLDowdI5Ynv6KomsdoZa4w4npQZ0wi/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
